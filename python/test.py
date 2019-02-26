@@ -1,5 +1,5 @@
 
-# Don't Fear the Reaper
+# Don't Fear the Reaper // nebojte se ripera
 print ("Hello World")
 
 # skup
